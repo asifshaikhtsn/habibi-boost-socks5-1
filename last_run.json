@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-09-04T09:08:59Z",
+  "engine": "boost-v2.1",
+  "health_policy": "temporary_quarantine_2h_6h_12h_24h",
+  "protocol": "SOCKS5",
+  "source_unique": 149296,
+  "eligible_new": 149221,
+  "validated": 20000,
+  "rotation_start": 107234,
+  "still_working": 3,
+  "working_new": 49,
+  "working": 52,
+  "dead_existing": 72,
+  "dead_new": 19951,
+  "dead_total": 20023,
+  "dead_tracked": 20023,
+  "quarantine_skipped": 72,
+  "inconclusive_new": 0,
+  "no_country_count": 0,
+  "country_count": 15,
+  "protocol_counts": {
+    "SOCKS5": 52
+  },
+  "country_counts": {
+    "HK": 14,
+    "NL": 7,
+    "US": 6,
+    "DE": 6,
+    "FR": 4,
+    "RU": 4,
+    "SG": 2,
+    "CN": 2,
+    "KR": 1,
+    "TH": 1,
+    "KH": 1,
+    "JP": 1,
+    "MY": 1,
+    "EE": 1,
+    "GB": 1
+  }
+}
